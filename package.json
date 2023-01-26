@@ -1,0 +1,30 @@
+{
+  "name": "week6finalproject",
+  "version": "1.0.0",
+  "description": "Week 6 Final Project Test",
+  "main": "Week6FinalProject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aziyelm/Week_6_Final_Project.git"
+  },
+  "keywords": [
+    "week",
+    "6",
+    "final",
+    "project",
+    "test"
+  ],
+  "author": "Aziyel Madrigal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aziyelm/Week_6_Final_Project/issues"
+  },
+  "homepage": "https://github.com/aziyelm/Week_6_Final_Project#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
